@@ -129,3 +129,12 @@
     width: 100px;
     height: 100px;
   }
+  @media (max-width: 600px) {
+    .footer{
+     text-align: center;
+     height: fit-content;
+    }
+    form {
+      width: 400px;
+    }
+  }

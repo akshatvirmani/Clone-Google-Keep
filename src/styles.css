@@ -135,6 +135,9 @@
      height: fit-content;
     }
     form {
-      width: 400px;
+      width: 200px;
+    }
+    .header{
+      width:100%;
     }
   }

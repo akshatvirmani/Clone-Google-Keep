@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Google Keep Clone
+
+A Google Keep Clone using CRUD operations where you can keep
+your notes.
 
 
 
